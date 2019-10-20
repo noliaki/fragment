@@ -1,7 +1,7 @@
 import { ShaderMaterial, TextureLoader } from 'three'
 import vertexShader from './vertex-shader'
 import fragmentShader from './fragment-shader'
-import { loadTexture } from './helper'
+// import { loadTexture } from './helper'
 
 export default new ShaderMaterial({
   uniforms: {
