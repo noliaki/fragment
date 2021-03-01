@@ -4,7 +4,7 @@
     "build": "cross-env NODE_ENV=production parcel build ./src/index.html --out-dir ./dist"
   },
   "dependencies": {
-    "three": "^0.109.0",
+    "three": "^0.125.0",
     "three-orbitcontrols": "^2.108.1",
     "three-trackballcontrols": "^0.0.8"
   },
